@@ -1,0 +1,3 @@
+{
+  "services/test/test_mongoDbService.py::test_importaPlanilhaEGeraDataFrameComDadosDeveriaImportarPlanilha": true
+}

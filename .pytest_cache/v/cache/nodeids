@@ -1,0 +1,9 @@
+[
+  "services/test/test_transformacaoDadosService.py::test_importaPlanilhaEGeraDataFrameComDadosDeveriaImportarPlanilha",
+  "services/test/test_transformacaoDadosService.py::test_mantemApenasAtividadesPerfuracaoDeveriaManterApenasAtividadesDePerfuracaoNaColunaTipoServicoDeDataFrame",
+  "services/test/test_transformacaoDadosService.py::test_geraDataFrameAgrupadoPorPocoDeveriaAgruparPorPoco",
+  "services/test/test_transformacaoDadosService.py::test_transformaDadosCategoricosDeveriaManterApenasDadosCategoricos",
+  "services/test/test_transformacaoDadosService.py::test_transformaDadosCategoricosEmDadosNumericosDeveriaTransformarColunasCategoricasEmNumericas",
+  "services/test/test_transformacaoDadosService.py::test_4",
+  "services/test/test_transformacaoDadosService.py::test_5"
+]
