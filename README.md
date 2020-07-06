@@ -2,8 +2,11 @@
 #### Programa de Mestrado em Informática - PUC-Rio ####
 
 Professor Orientador: Marcelo Gattass
+
 Professor Co-orientador: Helio Cortes Vieira Lopes
+
 Aluno: Waldir José Pereira Junior
+
 Matrícula: 1820998
 
 ---
