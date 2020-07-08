@@ -1,3 +1,8 @@
 {
+  "modulo_aplicacao/script/test/test_transformacaoDadosService.py::test_geraDataFrameAgrupadoPorPocoDeveriaAgruparPorPoco": true,
+  "modulo_aplicacao/script/test/test_transformacaoDadosService.py::test_importaPlanilhaEGeraDataFrameComDadosDeveriaImportarPlanilha": true,
+  "modulo_aplicacao/script/test/test_transformacaoDadosService.py::test_mantemApenasAtividadesPerfuracaoDeveriaManterApenasAtividadesDePerfuracaoNaColunaTipoServicoDeDataFrame": true,
+  "modulo_aplicacao/script/test/test_transformacaoDadosService.py::test_transformaDadosCategoricosDeveriaManterApenasDadosCategoricos": true,
+  "modulo_aplicacao/script/test/test_transformacaoDadosService.py::test_transformaDadosCategoricosEmDadosNumericosDeveriaTransformarColunasCategoricasEmNumericas": true,
   "services/test/test_mongoDbService.py::test_importaPlanilhaEGeraDataFrameComDadosDeveriaImportarPlanilha": true
 }
