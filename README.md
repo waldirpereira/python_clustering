@@ -1,6 +1,8 @@
 ### Trabalho Final de Programação - 2020.1 ###
 #### Programa de Mestrado em Informática - PUC-Rio ####
 
+Título: Sugestão de poços de petróleo correlatos através de clusterização
+
 Professor Orientador: Marcelo Gattass
 
 Professor Co-orientador: Helio Cortes Vieira Lopes
